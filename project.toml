@@ -9,7 +9,7 @@ description = "Pequeña librería de validadores reutilizables."
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
-authors = [{name="Tu Nombre", email="tu-email@example.com"}]
+authors = [{name="Kevin Navia Matienzo", email="kevinnavia68@gmail.com"}]
 classifiers = [
   "Programming Language :: Python :: 3",
   "License :: OSI Approved :: MIT License",

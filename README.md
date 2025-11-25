@@ -6,6 +6,24 @@ Pequeña librería de validadores reutilizables para Python.
 
 Minivalidator es una librería ligera que proporciona reglas de validación reutilizables para validar datos en aplicaciones Python. Incluye validadores comunes como verificación de cadenas no vacías, formato de email y rangos numéricos.
 
+## ESTRUCTURA 
+minivalidator/               # repo root
+├─ src/
+│  └─ minivalidator/
+│     ├─ __init__.py
+│     ├─ core.py            # módulo principal (core)
+│     ├─ rules.py           # submódulo 1: reglas/validadores
+│     └─ errors.py          # submódulo 2: excepciones y tipos
+├─ tests/
+│  ├─ test_core.py
+│  └─ test_rules.py
+├─ pyproject.toml
+├─ setup.cfg
+├─ README.md
+├─ LICENSE
+└─ requirements_dev.txt
+
+
 ## Instalación
 
 Puedes instalar Minivalidator usando pip:

@@ -126,3 +126,5 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detal
 
 Kevin Navia Matienzo - kevinnavia68@gmail.com
 
+## link pypi
+https://test.pypi.org/legacy/
